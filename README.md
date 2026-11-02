@@ -82,7 +82,3 @@ O programa funciona por meio de um loop contínuo que:
 7. Retorna ao prompt para receber um novo comando.
 
 O loop é encerrado quando o usuário digita `exit`.
-
-## Objetivo acadêmico
-
-Desenvolver um shell simples em Zig, compreendendo conceitos de leitura de comandos, busca de executáveis, criação e gerenciamento de processos e execução de programas no sistema operacional Linux.
